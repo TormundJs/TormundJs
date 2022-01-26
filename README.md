@@ -4,7 +4,7 @@ This is where I open something open source and improve things :yum:
 
 📊 &nbsp;**This week I spent my time on**
   
-<img src="https://wakatime.com/badge/user/bdbb4298-9c5e-48de-9c4c-b60c034820ca.svg?style=flat" alt="Tormund"/>
+<img src="https://wakatime.com/badge/user/bdbb4298-9c5e-48de-9c4c-b60c034820ca.svg?style=flat" alt="TormundJs"/>
   
 ![Wwakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tormund&bg_color=00000000&text_color=777&hide_title=true&hide_border=true&langs_count=5)
 <details>
@@ -15,9 +15,9 @@ I am a full professional developer using JavaScript on the Discord platform for 
   
   📊 &nbsp;**Profile Views**
   <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Tormund07&color=dc143c&label=Visitors&color=6182e1" alt="Tormund"/>
+  <img src="https://komarev.com/ghpvc/?username=TormundJs&color=dc143c&label=Visitors&color=6182e1" alt="TormundJs"/>
 
-[⏩ &nbsp; and many more](https://github.com/Tormund?tab=repositories&q=&type=source&language=&sort=stargazers) 
+[⏩ &nbsp; and many more](https://github.com/TormundJs?tab=repositories&q=&type=source&language=&sort=stargazers) 
 
 ```
   ____                  ____                      
