@@ -17,7 +17,7 @@ I am a full professional developer using JavaScript on the Discord platform for 
   <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Tormund07&color=dc143c&label=Visitors&color=6182e1" alt="Tormund"/>
 
-[⏩ &nbsp; and many more](https://github.com/Tormund07?tab=repositories&q=&type=source&language=&sort=stargazers) 
+[⏩ &nbsp; and many more](https://github.com/Tormund?tab=repositories&q=&type=source&language=&sort=stargazers) 
 
 ```
   ____                  ____                      
