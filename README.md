@@ -6,7 +6,7 @@ This is where I open something open source and improve things :yum:
   
 <img src="https://wakatime.com/badge/user/bdbb4298-9c5e-48de-9c4c-b60c034820ca.svg?style=flat" alt="TormundJs"/>
   
-![Wwakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TormundJs)
+![Wwakatime stats](https://github-readme-stats.vercel.app/api?username=TormundJs&show_icons=true&theme=radical)
 <details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
